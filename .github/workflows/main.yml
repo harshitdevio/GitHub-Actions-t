@@ -1,3 +1,4 @@
+name: GitHubActionsFirst
 
 on: 
   workflow_dispatch:
